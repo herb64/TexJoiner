@@ -1,0 +1,5 @@
+# Git ignore for texture tools repository
+
+# ignore the texture working subdirectories
+Work/*
+OLD/*
